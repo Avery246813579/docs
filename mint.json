@@ -40,6 +40,12 @@
   ],
   "navigation": [
     {
+      "group": "Getting Started",
+      "pages": [
+        "introduction"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
