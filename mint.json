@@ -26,12 +26,16 @@
     "url": "https://dashboard.mintlify.com"
   },
   "primaryTab": {
-    "name": "Dogs"
+    "name": "Home"
   },
   "tabs": [
     {
-      "name": "Dogs 2",
-      "url": "api-reference"
+      "name": "Order System",
+      "url": "orders"
+    },
+    {
+      "name": "Employee Management",
+      "url": "employees"
     }
   ],
   "navigation": [
