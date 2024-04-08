@@ -25,9 +25,12 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
+  "primaryTab": {
+    "name": "Dogs"
+  },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Dogs 2",
       "url": "api-reference"
     }
   ],
