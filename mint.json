@@ -42,6 +42,12 @@
     {
       "group": "Essentials",
       "pages": [
+        "quickstart"
+      ]
+    },
+    {
+      "group": "Essentials",
+      "pages": [
         "essentials/markdown",
         "essentials/code",
         "essentials/images",
