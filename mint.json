@@ -35,16 +35,10 @@
     },
     {
       "name": "Employee Management",
-      "url": "employees"
+      "url": "essentials"
     }
   ],
   "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "introduction"
-      ]
-    },
     {
       "group": "Essentials",
       "pages": [
