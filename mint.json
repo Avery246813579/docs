@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Status Page",
+      "url": "https://status.dripos.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://dashboard.dripos.com"
   },
   "primaryTab": {
     "name": "Home"
@@ -35,18 +35,30 @@
     },
     {
       "name": "Employee Management",
-      "url": "essentials"
+      "url": "employees"
+    },
+    {
+      "name": "Store Operations",
+      "url": "operations"
+    },
+    {
+      "name": "Marketing",
+      "url": "marketing"
+    },
+    {
+      "name": "Finance",
+      "url": "finance"
     }
   ],
   "navigation": [
     {
-      "group": "Essentials",
+      "group": "Home",
       "pages": [
         "quickstart"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "orders",
       "pages": [
         "essentials/markdown",
         "essentials/code",
